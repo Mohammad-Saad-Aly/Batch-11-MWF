@@ -1,0 +1,40 @@
+/* .main{
+    border: 3px solid black;
+    width: 30%;
+}
+
+h3, p{
+    padding: 10px;
+}
+
+img{
+    width: 100%;
+} */
+
+/* .abc{
+    background-color: aqua;
+    width: 30%;
+    float: left;
+}
+
+.def{
+    float: left;
+    width: 30%;
+    background-color: greenyellow;
+}
+
+p{
+    clear: both;
+} */
+
+div{
+    background-color: aqua;
+    width: 30%;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid black;
+    margin-top: 50px;
+    /* text-shadow: 10px 10px 10px blue; */
+    /* box-shadow: 0px 0px 30px green; */
+    /* box-shadow: -10px -10px 10px green; */
+}

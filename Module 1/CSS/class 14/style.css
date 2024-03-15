@@ -1,0 +1,79 @@
+/* *{
+    background-color: bisque;
+} */
+/* 
+.black {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.white {
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+
+li {
+    display: inline-block;
+    width: 120px;
+    text-align: center;
+}
+
+ul {
+    background-color: aqua;
+} */
+
+
+/* img { */
+    /* position: relative; */
+    /* right: 55px; */
+    /* padding-left: -100px; */
+/* } */
+
+
+/* #imgchess{ */
+/* position: absolute; */
+/* top: 8px; */
+/* right: 8px; */
+/* left: 112px; */
+/* } */
+
+/* .abc {
+    position: relative;
+    bottom: 10px;
+} */
+
+.main{
+    display: flex;
+    background-color: aqua;
+    flex-direction: row;
+    justify-content: center;
+    height: 400px;
+    align-items: flex-start;
+    align-items: center;
+}
+
+.one{
+    background-color: red;
+}
+
+.two{
+    background-color: black;
+    color: white;
+}
+
+.three{
+    background-color: bisque;
+}
+
+.four{
+    background-color: yellow;
+}
+
+.five{
+    background-color: green;
+}

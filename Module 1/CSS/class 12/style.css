@@ -1,0 +1,35 @@
+/* label{
+    width: 100px;
+    display: inline-block;
+    text-align: center;
+}
+
+fieldset, form{
+    width: 52%;
+    margin: auto;
+    padding: 20px;
+}
+legend{
+    font-size: xx-large;
+} */
+
+li{
+    display: inline-block;
+    /* background-color: aqua; */
+    width: 150px;
+    text-align: center;
+    font-size: larger;
+}
+
+ul{
+    background-color: red;
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+#top{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}

@@ -1,0 +1,55 @@
+/* .main{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+
+.abc{
+    display: flex;
+    align-items: center;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+  } */
+
+  .main{
+    overflow: scroll;
+    flex-wrap: wrap;
+    width: 30%;
+    display: flex;
+    background-color: aqua;
+    height: 400px;
+    align-items: flex-start;
+    justify-content: space-around;
+    /* align-items: center; */
+  }
+  .one{
+    background-color: red;
+    /* align-self: flex-start; */
+  }
+  .two{
+    background-color: yellow;
+    order: 1;
+  }
+  .three{
+    background-color: green;
+    order: 2;
+    /* align-self: flex-end; */
+  }
+  .four{
+    background-color: lightgreen;
+    order: -2;
+  }
+  .five{
+    background-color: violet;
+    order: -1;
+  }

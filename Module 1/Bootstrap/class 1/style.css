@@ -1,0 +1,22 @@
+/* .abc{ */
+    /* background-color: aqua !important; */
+    /* color: white !important; */
+    /* background-color: pink !important; */
+    /* word-spacing: 100px; */
+    /* margin: 200px; */
+/* } */
+
+/* .def{
+    text-align: center;
+} */
+
+.card:hover{
+    border: 5px solid white !important;
+    transform: scale(1.2);
+    transition: 1s;
+    z-index: 1;
+}
+
+.abc{
+    z-index: 1 !important;
+}
